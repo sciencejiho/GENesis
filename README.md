@@ -2,7 +2,7 @@
 
 ![Test](https://github.com/sciencejiho/GENesis/workflows/Test/badge.svg)&nbsp;
 
-Choosing a general education course is what every single student of UIUC does in their school curriculum. However, it seems we lack a convenient tool to have an overview of all general educations courses with various attributes at the same time (students' rating, online or offline, past average GPA, etc) This project will combine all those data and help students make their own choice with more information.
+Choosing a course is what every single student of UIUC does in their school curriculum. However, it seems we lack a convenient tool to have an overview of all general educations courses with various attributes at the same time (students' rating, online or offline, past average GPA, etc) This project will combine all those data and help students make their own choice with more information.
 
 ## Table of contents
 
@@ -14,13 +14,13 @@ Choosing a general education course is what every single student of UIUC does in
 
 ```text
 GENesis/
-└── boo/
-    ├── bar1
-    ├── bar2
-    ├── bar3
-    ├── bar4
-    ├── bar5
-    └── bar6
+└── src/
+    ├── best.php                // best courses from each department            
+    ├── coursesearch.php        // course search in the main page
+    ├── courserec.php           // recommend courses based on user's NetID (Advanced Function)
+    ├── create.php
+    ├── delete.php
+    └── popular.php             // 10 most popular courses
 ```
 
 ## <a name="contribute"></a> Contributing to GENesis
