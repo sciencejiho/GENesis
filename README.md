@@ -1,7 +1,7 @@
 # GENesis
 
 <h1 align="center">
-  <img src="assets/images/banner.jpg" alt="GENesis">
+  [<img src="assets/images/banner.jpg" alt="GENesis - Course Recommendation System">](https://cs411genesis.web.illinois.edu/)
 </h1>
 
 ![Test](https://github.com/sciencejiho/GENesis/workflows/Test/badge.svg)&nbsp;
