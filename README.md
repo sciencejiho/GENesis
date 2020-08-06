@@ -1,5 +1,9 @@
 # GENesis
 
+<h1 align="center">
+  <img src="assets/images/banner.jpg" alt="GENesis">
+</h1>
+
 ![Test](https://github.com/sciencejiho/GENesis/workflows/Test/badge.svg)&nbsp;
 
 Choosing a course is what every single student of UIUC does in their school curriculum. However, it seems we lack a convenient tool to have an overview of all general educations courses with various attributes at the same time (students' rating, online or offline, past average GPA, etc) This project will combine all those data and help students make their own choice with more information.
